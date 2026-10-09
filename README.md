@@ -23,7 +23,8 @@ GROP/
 ├── README.md        ← 이 파일. 전체 목차
 ├── AGENTS.md        ← AI 에이전트가 이 볼트를 다루는 규칙
 ├── docs/
-│   └── decisions.md ← 볼트 자체에 대한 결정 기록
+│   ├── decisions.md ← 볼트 자체에 대한 결정 기록
+│   └── ENTRY_SPEC.md ← 결정 항목의 공통 기록 기준
 ├── projects/        ← 프로젝트별 폴더 (이주할 때 하나씩 생성)
 │   └── <slug>/
 │       ├── README.md     ← 개요·역할·기간·상태·결과
