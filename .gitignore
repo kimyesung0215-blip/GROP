@@ -1,0 +1,16 @@
+# 비공개 영역 — 별도 비공개 저장소로 관리
+private/
+
+# 옵시디언 개인 작업 상태 (기기마다 다름)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 플러그인 설치 파일과 로컬 설정
+.obsidian/plugins/
