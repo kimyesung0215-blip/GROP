@@ -40,8 +40,8 @@ GROP/
 
 | 프로젝트 | 폴더 | 상태 |
 |---|---|---|
-| 로봇손 제작 프로젝트 | [projects/robot-hand](projects/robot-hand/) | 진행중 |
-| 한일공동수업 음향 부양 프로젝트 | [projects/acoustic-levitation](projects/acoustic-levitation/) | 진행중 |
+| 로봇손 제작 프로젝트 | [projects/robot-hand](projects/robot-hand/README.md) | 진행중 |
+| 한일공동수업 음향 부양 프로젝트 | [projects/acoustic-levitation](projects/acoustic-levitation/README.md) | 진행중 |
 
 ## 운영 규칙
 
